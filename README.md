@@ -2,4 +2,4 @@ A sleek and modern personal portfolio showcasing my skills, experience and educa
 
 About Me: A brief introduction with my educational background and interests.
 Skills: A visual representation of my technical skills and tools I’m proficient in.
-Contact: An integrated contact form and links to my social profiles (e.g., GitHub, LinkedIn).
+Contact:  links to my social profiles.
